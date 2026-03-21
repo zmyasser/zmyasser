@@ -1,85 +1,90 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>GitHub Profile</title>
-</head>
-<body style="font-family: Arial, sans-serif; background-color: #0d1117; color: #c9d1d9; margin: 0; padding: 0;">
+<!-- GitHub Profile README -->
 
-  <div style="max-width: 900px; margin: auto; padding: 20px;">
+<h1 align="center">Hi 👋, I'm Yasser</h1>
+<h3 align="center">C++ / C Software Engineer | Full-Stack Desktop App Developer (C#) | Embedded Systems</h3>
 
-    <!-- Header -->
-    <h1 style="color: #58a6ff;">Hi, I'm Yasser 👋</h1>
-    <p>
-      💻 C++ & C Software Engineer | 🧠 Biomedical & Embedded Systems Enthusiast<br>
-      🎨 Brand Identity Designer | 🚀 Future Web Developer
-    </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Low-Level+Programmer;Full-Stack+Desktop+Developer;C%2B%2B+%7C+C+%7C+C%23+Developer;Always+Learning+%26+Building" />
+</p>
 
-    <hr style="border-color: #30363d;">
+---
 
-    <!-- About Me -->
-    <h2>🧑‍💻 About Me</h2>
-    <p>
-      I'm a passionate developer focused on building strong foundations in low-level programming and system design.
-      I enjoy working close to the hardware, solving complex problems, and continuously improving my skills in both
-      software engineering and design.
-    </p>
+## 🧠 About Me
 
-    <ul>
-      <li>🔭 Currently learning: Advanced C++, Embedded Systems, and .NET</li>
-      <li>🌱 Improving: Problem-solving, system design, and performance optimization</li>
-      <li>🎯 Goal: Become a high-level software engineer in biomedical and embedded systems</li>
-    </ul>
+- 💻 Passionate about **low-level programming & system design**
+- 🧠 Enthusiastic about **algorithm design, problem-solving, and understanding computer memory and system architecture**
+- 🖥️ Full-Stack **Desktop Application Developer using C#**
+- 🧬 **Biologist specialized in Immunology**
+- 🧬 Focused on **biomedical & embedded software engineering**
+- 🎯 Goal: Becoming an **expert C/C++ engineer**
+- ⚡ I build efficient, scalable, and robust applications
 
-    <hr style="border-color: #30363d;">
+---
 
-    <!-- Tech Stack -->
-    <h2>⚙️ Tech Stack</h2>
+## ⚙️ Tech Stack
 
-    <h3>Languages</h3>
-    <ul>
-      <li>C++</li>
-      <li>C</li>
-      <li>C#</li>
-      <li>SQL</li>
-    </ul>
+### 🧩 Languages
+<p>
+  <img height="40" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img height="40" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img height="40" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img height="40" src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-    <h3>Tools & Technologies</h3>
-    <ul>
-      <li>SQL Server</li>
-      <li>Linux</li>
-      <li>Git & GitHub</li>
-      <li>.NET / .NET Core</li>
-    </ul>
+### 🛠️ Tools & Technologies
+<p>
+  <img height="40" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img height="40" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img height="40" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img height="40" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img height="40" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
-    <hr style="border-color: #30363d;">
+---
 
-    <!-- Projects -->
-    <h2>📌 Featured Projects</h2>
-    <p>
-      🔹 Project 1 – Short description<br>
-      🔹 Project 2 – Short description<br>
-      🔹 Project 3 – Short description
-    </p>
+## ✨ Highlights
 
-    <hr style="border-color: #30363d;">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zmyasser&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
-    <!-- Contact -->
-    <h2>📫 Contact Me</h2>
-    <p>
-      📧 Email: your-email@example.com<br>
-      💼 LinkedIn: your-linkedin-profile<br>
-    </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zmyasser&theme=tokyo-night" />
+</p>
 
-    <hr style="border-color: #30363d;">
+---
 
-    <!-- Footer -->
-    <p style="text-align: center; font-size: 14px; color: #8b949e;">
-      "Code. Design. Build. Improve. Repeat."
-    </p>
+## 🔥 GitHub Streak
 
-  </div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
 
-</body>
-</html>
+---
+
+## 🚀 Featured Projects
+
+- 🔹 **Project 1** – Short description
+- 🔹 **Project 2** – Short description
+- 🔹 **Project 3** – Short description
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  📧 Email: yasserbackendev@gmail.com <br>
+  💼 LinkedIn: your-linkedin-profile
+</p>
+
+---
+
+## ⚡ Quote
+
+> "Code. Design. Build. Improve. Repeat."
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=58a6ff&style=flat" />
+</p>
