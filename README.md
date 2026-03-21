@@ -14,7 +14,7 @@
 - 💻 Passionate about **low-level programming & system design**
 - 🧠 Enthusiastic about **algorithm design, problem-solving, and understanding computer memory and system architecture**
 - 🖥️ Full-Stack **Desktop Application Developer using C#**
-- 🧬 **Biologist specialized in Immunology**
+- 🧬 **Biologist specialized in Immunology (Bachelor's Degree)**
 - 🧬 Focused on **biomedical & embedded software engineering**
 - 🎯 Goal: Becoming an **expert C/C++ engineer**
 - ⚡ Building efficient, scalable, and robust applications
