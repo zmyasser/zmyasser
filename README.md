@@ -17,7 +17,7 @@
 - 🧬 **Biologist specialized in Immunology**
 - 🧬 Focused on **biomedical & embedded software engineering**
 - 🎯 Goal: Becoming an **expert C/C++ engineer**
-- ⚡ I build efficient, scalable, and robust applications
+- ⚡ building efficient, scalable, and robust applications
 
 ---
 
