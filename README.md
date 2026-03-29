@@ -1,6 +1,8 @@
 <!-- GitHub Profile README -->
 
-<h1 align="center">Hi 👋, I'm Yasser</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=printf(%22Hello,+World!%22);;Welcome+to+my+GitHub+Profile;C%2B%2B+%7C+C+%7C+C%23+Engineer" />
+</h1>
 <h3 align="center">C++ / C Software Engineer | Full-Stack Desktop App Developer (C#) | Embedded Systems</h3>
 
 <p align="center">
