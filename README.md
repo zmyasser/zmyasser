@@ -77,7 +77,7 @@
 
 <p>
   📧 Email: yasserbackendev@gmail.com <br>
-  💼 LinkedIn: in/zaabal-mohamed-yasser
+  💼 LinkedIn: [in/zaabal-mohamed-yasser](https://www.linkedin.com/in/zaabal-mohamed-yasser-)
 </p>
 
 ---
